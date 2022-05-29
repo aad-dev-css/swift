@@ -7,17 +7,31 @@ The page mentioned above also has setup instructions which also applies to this 
 CocoaPods is used to integrate MSAL iOS into the project.
 Xcode 11.7 was used.
 
-The sample allows:
+
+**The sample allows:**
+
+
 -Authentication using MSAL iOS.
+
 -Calling any MS Graph endpoint with GET, straight from the app.
+
 -v1.0 and beta endpoints.
+
 -Scrollable responses.
+
 -Requesting scope consent.
+
 -Copy token.
 
-To do:
+
+**To do:**
+
+
 -Support for more REST methods.
+
 -Interface improvements.
+
 -Support for extra headers. (e.g. ConsistencyLevel)
+
 -Show response headers.
 
