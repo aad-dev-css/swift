@@ -1,0 +1,18 @@
+PODS:
+  - MSAL (1.1.26):
+    - MSAL/app-lib (= 1.1.26)
+  - MSAL/app-lib (1.1.26)
+
+DEPENDENCIES:
+  - MSAL
+
+SPEC REPOS:
+  trunk:
+    - MSAL
+
+SPEC CHECKSUMS:
+  MSAL: b479d8f1f62c71c34f7ff27cc441065b099856a6
+
+PODFILE CHECKSUM: f1410a3a245855e945f3b34db7fa10cfa82a1fda
+
+COCOAPODS: 1.11.3
